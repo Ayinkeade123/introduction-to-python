@@ -14,3 +14,6 @@ print(data_type_name)
 
 sola_age = float(40)
 print(sola_age)
+
+# case of naming
+# https://www.freecodecamp.org/news/snake-case-vs-camel-case-vs-pascal-case-vs-kebab-case-whats-the-difference/#:~:text=The%20kebab%20case%20is%20very
