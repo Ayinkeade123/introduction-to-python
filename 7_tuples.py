@@ -52,7 +52,7 @@ print (Nigeria3)
 
 #multiply tuple
 state = ("lagos", "ibadan", "ogun",)
-Nigeria *2
+Nigeria *3
 
 
 print (Nigeria)
