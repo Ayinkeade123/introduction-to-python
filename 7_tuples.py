@@ -1,6 +1,8 @@
 Nigeria = ("lagos", "ibadan", "ogun", "oyo", "ekiti")
+print (Nigeria)
 
-print 
+
+
 
 
 #to determine the tuple length
@@ -52,7 +54,7 @@ print (Nigeria3)
 
 #multiply tuple
 state = ("lagos", "ibadan", "ogun",)
-Nigeria *3
+Nigeria *2
 
 
 print (Nigeria)
