@@ -4,8 +4,9 @@ def squared_tuple_number (numbers):
 
 numbers = (1, 2, 3, 4, 10)
 new_numbers = squared_tuple_number (numbers)
-print (numbers)
+print (type(numbers))
 print (new_numbers)
+
 
 numbers = (1, 2, 3, 4, 10)
 new_numbers = []
