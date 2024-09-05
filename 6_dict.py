@@ -3,6 +3,7 @@ myStatus = {
 "firstname" : "zainab",
 "color" : "black"
 }
+
 #add favorite food
 myStatus ["food"]= "rice"
 
